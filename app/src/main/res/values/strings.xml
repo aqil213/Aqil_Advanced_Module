@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Advanced(AQIL)</string>
+    <string name="title_activity_home_navbar">HomeNavbarActivity</string>
+    <string name="title_home">Home</string>
+    <string name="univ">Universitas Alma Ata Yogyakarta</string>
+    <string name="nama">Muhamad Aqil Aziz</string>
+    <string name="hello">Hello, apa kabar? Apa yang kamu ketahui dari Bangun Ruang Sisi Datar?</string>
+    <string name="defKubus">Kubus merupakan suatu bangun ruang tiga dimensi yang dibatasi oleh 6 buah bidang sisi yang saling kongruen atau serupa berbentuk bujur sangkar. Kubus juga dikenal dengan nama lain yaitu bidang 6 beraturan. Kubus sebetulnya adalah bentuk khusus dari prisma segiempat, sebab tingginya sama dengan sisi alas.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="defBalok">Balok adalah suatu bangun ruang yang mempunyai tiga pasang sisi segi empat. Di mana pada masing-masing sisinya yang berhadapan mempunyai bentuk serta ukuran yang sama. Berbeda halnya dengan kubus di mana seluruh sisinya kongruen berbentuk persegi, dan pada balok hanya sisi yang berhadapan yang sama besar.</string>
+    <string name="defPrisma">Prisma merupakan suatu bangun ruang tiga dimensi di mana alas dan juga tutupnya kongruen serta sejajar berbentuk segi-n. Sisi-sisi tegak dalam prisma memiliki beberapa bentuk, antara lain: persegi, persegi panjang, atau jajargenjang. Dilihat dari tegak rusuknya, prisma terbagi menjadi dua macam, yaitu: prisma tegak dan prisma miring.</string>
+    <string name="defLimas">Limas merupakan suatu bangun ruang tiga dimensi yang dibatasi oleh alas berbentuk segi-n (dapat berupa segi tiga, segi empat, segi lima, dll) serta bidang sisi tegak berbentuk segitiga yang berpotongan di satu titik puncak.</string>
+
+</resources>

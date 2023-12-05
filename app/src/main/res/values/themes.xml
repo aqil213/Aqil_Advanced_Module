@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyAdvancedAQIL" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#03CAB7</item>
+    </style>
+
+
+    <style name="Theme.MyAdvancedAQIL" parent="Base.Theme.MyAdvancedAQIL" />
+</resources>
